@@ -1,0 +1,27 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "digital time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergfio/digitalTime.git"
+  },
+  "keywords": [
+    "project",
+    "to",
+    "get",
+    "started",
+    "with",
+    "js"
+  ],
+  "author": "sf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sergfio/digitalTime/issues"
+  },
+  "homepage": "https://github.com/Sergfio/digitalTime#readme"
+}
